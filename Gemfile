@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+ruby '3.0.2'
+gem 'rubocop', '~> 0.89.1'
+gem 'rspec'
+gem 'pry'
+gem 'dotenv'
+gem 'twitter', '~> 6.2'
+gem 'tweetstream'
+gem 'nokogiri'
+gem 'colorize'
